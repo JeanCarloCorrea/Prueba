@@ -1,0 +1,12 @@
+D:\PRUEBA BIXTEC\PRUEBA BIXTEC\PruebaDepartamentos\ServicioDepartamentos\bin\ServicioDepartamentos.dll.config
+D:\PRUEBA BIXTEC\PRUEBA BIXTEC\PruebaDepartamentos\ServicioDepartamentos\bin\ServicioDepartamentos.dll
+D:\PRUEBA BIXTEC\PRUEBA BIXTEC\PruebaDepartamentos\ServicioDepartamentos\bin\ServicioDepartamentos.pdb
+D:\PRUEBA BIXTEC\PRUEBA BIXTEC\PruebaDepartamentos\ServicioDepartamentos\bin\DAL.dll
+D:\PRUEBA BIXTEC\PRUEBA BIXTEC\PruebaDepartamentos\ServicioDepartamentos\bin\Entidades.dll
+D:\PRUEBA BIXTEC\PRUEBA BIXTEC\PruebaDepartamentos\ServicioDepartamentos\bin\DAL.pdb
+D:\PRUEBA BIXTEC\PRUEBA BIXTEC\PruebaDepartamentos\ServicioDepartamentos\bin\Entidades.pdb
+D:\PRUEBA BIXTEC\PRUEBA BIXTEC\PruebaDepartamentos\ServicioDepartamentos\obj\Debug\ServicioDepartamentos.csprojAssemblyReference.cache
+D:\PRUEBA BIXTEC\PRUEBA BIXTEC\PruebaDepartamentos\ServicioDepartamentos\obj\Debug\ServicioDepartamentos.csproj.CoreCompileInputs.cache
+D:\PRUEBA BIXTEC\PRUEBA BIXTEC\PruebaDepartamentos\ServicioDepartamentos\obj\Debug\ServicioDepartamentos.csproj.CopyComplete
+D:\PRUEBA BIXTEC\PRUEBA BIXTEC\PruebaDepartamentos\ServicioDepartamentos\obj\Debug\ServicioDepartamentos.dll
+D:\PRUEBA BIXTEC\PRUEBA BIXTEC\PruebaDepartamentos\ServicioDepartamentos\obj\Debug\ServicioDepartamentos.pdb

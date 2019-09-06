@@ -1,0 +1,22 @@
+D:\ProyectosDesarrollo\PruebaDepartamentos\Servicio\obj\Debug\Servicio.csprojResolveAssemblyReference.cache
+D:\ProyectosDesarrollo\PruebaDepartamentos\Servicio\bin\Debug\Servicio.dll.config
+D:\ProyectosDesarrollo\PruebaDepartamentos\Servicio\bin\Debug\Servicio.dll
+D:\ProyectosDesarrollo\PruebaDepartamentos\Servicio\bin\Debug\Servicio.pdb
+D:\ProyectosDesarrollo\PruebaDepartamentos\Servicio\bin\Debug\DAL.dll
+D:\ProyectosDesarrollo\PruebaDepartamentos\Servicio\bin\Debug\Entidades.dll
+D:\ProyectosDesarrollo\PruebaDepartamentos\Servicio\bin\Debug\DAL.pdb
+D:\ProyectosDesarrollo\PruebaDepartamentos\Servicio\bin\Debug\Entidades.pdb
+D:\ProyectosDesarrollo\PruebaDepartamentos\Servicio\obj\Debug\Servicio.dll
+D:\ProyectosDesarrollo\PruebaDepartamentos\Servicio\obj\Debug\Servicio.pdb
+D:\PRUEBA BIXTEC\PRUEBA BIXTEC\PruebaDepartamentos\Servicio\bin\Debug\Servicio.dll.config
+D:\PRUEBA BIXTEC\PRUEBA BIXTEC\PruebaDepartamentos\Servicio\bin\Debug\Servicio.dll
+D:\PRUEBA BIXTEC\PRUEBA BIXTEC\PruebaDepartamentos\Servicio\bin\Debug\Servicio.pdb
+D:\PRUEBA BIXTEC\PRUEBA BIXTEC\PruebaDepartamentos\Servicio\bin\Debug\DAL.dll
+D:\PRUEBA BIXTEC\PRUEBA BIXTEC\PruebaDepartamentos\Servicio\bin\Debug\Entidades.dll
+D:\PRUEBA BIXTEC\PRUEBA BIXTEC\PruebaDepartamentos\Servicio\bin\Debug\DAL.pdb
+D:\PRUEBA BIXTEC\PRUEBA BIXTEC\PruebaDepartamentos\Servicio\bin\Debug\Entidades.pdb
+D:\PRUEBA BIXTEC\PRUEBA BIXTEC\PruebaDepartamentos\Servicio\obj\Debug\Servicio.csprojAssemblyReference.cache
+D:\PRUEBA BIXTEC\PRUEBA BIXTEC\PruebaDepartamentos\Servicio\obj\Debug\Servicio.csproj.CoreCompileInputs.cache
+D:\PRUEBA BIXTEC\PRUEBA BIXTEC\PruebaDepartamentos\Servicio\obj\Debug\Servicio.csproj.CopyComplete
+D:\PRUEBA BIXTEC\PRUEBA BIXTEC\PruebaDepartamentos\Servicio\obj\Debug\Servicio.dll
+D:\PRUEBA BIXTEC\PRUEBA BIXTEC\PruebaDepartamentos\Servicio\obj\Debug\Servicio.pdb

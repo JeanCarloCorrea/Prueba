@@ -1,0 +1,16 @@
+D:\ProyectosDesarrollo\PruebaDepartamentos\DAL\bin\Debug\DAL.dll
+D:\ProyectosDesarrollo\PruebaDepartamentos\DAL\bin\Debug\DAL.pdb
+D:\ProyectosDesarrollo\PruebaDepartamentos\DAL\bin\Debug\Entidades.dll
+D:\ProyectosDesarrollo\PruebaDepartamentos\DAL\bin\Debug\Entidades.pdb
+D:\ProyectosDesarrollo\PruebaDepartamentos\DAL\obj\Debug\DAL.csprojResolveAssemblyReference.cache
+D:\ProyectosDesarrollo\PruebaDepartamentos\DAL\obj\Debug\DAL.dll
+D:\ProyectosDesarrollo\PruebaDepartamentos\DAL\obj\Debug\DAL.pdb
+D:\PRUEBA BIXTEC\PRUEBA BIXTEC\PruebaDepartamentos\DAL\bin\Debug\DAL.dll
+D:\PRUEBA BIXTEC\PRUEBA BIXTEC\PruebaDepartamentos\DAL\bin\Debug\DAL.pdb
+D:\PRUEBA BIXTEC\PRUEBA BIXTEC\PruebaDepartamentos\DAL\bin\Debug\Entidades.dll
+D:\PRUEBA BIXTEC\PRUEBA BIXTEC\PruebaDepartamentos\DAL\bin\Debug\Entidades.pdb
+D:\PRUEBA BIXTEC\PRUEBA BIXTEC\PruebaDepartamentos\DAL\obj\Debug\DAL.csprojAssemblyReference.cache
+D:\PRUEBA BIXTEC\PRUEBA BIXTEC\PruebaDepartamentos\DAL\obj\Debug\DAL.csproj.CoreCompileInputs.cache
+D:\PRUEBA BIXTEC\PRUEBA BIXTEC\PruebaDepartamentos\DAL\obj\Debug\DAL.csproj.CopyComplete
+D:\PRUEBA BIXTEC\PRUEBA BIXTEC\PruebaDepartamentos\DAL\obj\Debug\DAL.dll
+D:\PRUEBA BIXTEC\PRUEBA BIXTEC\PruebaDepartamentos\DAL\obj\Debug\DAL.pdb

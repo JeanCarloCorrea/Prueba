@@ -1,0 +1,9 @@
+D:\ProyectosDesarrollo\PruebaDepartamentos\Entidades\bin\Debug\Entidades.dll
+D:\ProyectosDesarrollo\PruebaDepartamentos\Entidades\bin\Debug\Entidades.pdb
+D:\ProyectosDesarrollo\PruebaDepartamentos\Entidades\obj\Debug\Entidades.dll
+D:\ProyectosDesarrollo\PruebaDepartamentos\Entidades\obj\Debug\Entidades.pdb
+D:\PRUEBA BIXTEC\PRUEBA BIXTEC\PruebaDepartamentos\Entidades\bin\Debug\Entidades.dll
+D:\PRUEBA BIXTEC\PRUEBA BIXTEC\PruebaDepartamentos\Entidades\bin\Debug\Entidades.pdb
+D:\PRUEBA BIXTEC\PRUEBA BIXTEC\PruebaDepartamentos\Entidades\obj\Debug\Entidades.csproj.CoreCompileInputs.cache
+D:\PRUEBA BIXTEC\PRUEBA BIXTEC\PruebaDepartamentos\Entidades\obj\Debug\Entidades.dll
+D:\PRUEBA BIXTEC\PRUEBA BIXTEC\PruebaDepartamentos\Entidades\obj\Debug\Entidades.pdb

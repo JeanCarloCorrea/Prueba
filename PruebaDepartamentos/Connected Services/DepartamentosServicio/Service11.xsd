@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<xs:schema xmlns:tns="http://schemas.datacontract.org/2004/07/Entidades" elementFormDefault="qualified" targetNamespace="http://schemas.datacontract.org/2004/07/Entidades" xmlns:xs="http://www.w3.org/2001/XMLSchema">
+  <xs:complexType name="ParametrosDep">
+    <xs:sequence>
+      <xs:element minOccurs="0" name="IdCiudad" type="xs:int" />
+      <xs:element minOccurs="0" name="IdDepartamento" type="xs:int" />
+      <xs:element minOccurs="0" name="IdRelacion" type="xs:int" />
+      <xs:element minOccurs="0" name="NombreCiudad" nillable="true" type="xs:string" />
+      <xs:element minOccurs="0" name="Operacion" type="xs:int" />
+      <xs:element minOccurs="0" name="login" nillable="true" type="xs:string" />
+      <xs:element minOccurs="0" name="nombreDepartamento" nillable="true" type="xs:string" />
+    </xs:sequence>
+  </xs:complexType>
+  <xs:element name="ParametrosDep" nillable="true" type="tns:ParametrosDep" />
+  <xs:complexType name="ArrayOfEntidad">
+    <xs:sequence>
+      <xs:element minOccurs="0" maxOccurs="unbounded" name="Entidad" nillable="true" type="tns:Entidad" />
+    </xs:sequence>
+  </xs:complexType>
+  <xs:element name="ArrayOfEntidad" nillable="true" type="tns:ArrayOfEntidad" />
+  <xs:complexType name="Entidad">
+    <xs:sequence>
+      <xs:element minOccurs="0" name="DESCRIESTADO" nillable="true" type="xs:string" />
+      <xs:element minOccurs="0" name="DescripcionCiu" nillable="true" type="xs:string" />
+      <xs:element minOccurs="0" name="DescripcionDep" nillable="true" type="xs:string" />
+      <xs:element minOccurs="0" name="ESTADO" type="xs:int" />
+      <xs:element minOccurs="0" name="IdCiudad" type="xs:int" />
+      <xs:element minOccurs="0" name="IdDepartamento" type="xs:int" />
+      <xs:element minOccurs="0" name="IdRelacion" type="xs:int" />
+    </xs:sequence>
+  </xs:complexType>
+  <xs:element name="Entidad" nillable="true" type="tns:Entidad" />
+  <xs:complexType name="ArrayOfParametrosDep">
+    <xs:sequence>
+      <xs:element minOccurs="0" maxOccurs="unbounded" name="ParametrosDep" nillable="true" type="tns:ParametrosDep" />
+    </xs:sequence>
+  </xs:complexType>
+  <xs:element name="ArrayOfParametrosDep" nillable="true" type="tns:ArrayOfParametrosDep" />
+</xs:schema>

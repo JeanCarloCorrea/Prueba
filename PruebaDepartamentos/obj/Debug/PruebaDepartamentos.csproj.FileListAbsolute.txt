@@ -1,0 +1,99 @@
+D:\ProyectosDesarrollo\PruebaDepartamentos\PruebaDepartamentos\bin\ApplicationInsights.config
+D:\ProyectosDesarrollo\PruebaDepartamentos\PruebaDepartamentos\bin\roslyn\csc.exe
+D:\ProyectosDesarrollo\PruebaDepartamentos\PruebaDepartamentos\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\ProyectosDesarrollo\PruebaDepartamentos\PruebaDepartamentos\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\ProyectosDesarrollo\PruebaDepartamentos\PruebaDepartamentos\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\ProyectosDesarrollo\PruebaDepartamentos\PruebaDepartamentos\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\ProyectosDesarrollo\PruebaDepartamentos\PruebaDepartamentos\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\ProyectosDesarrollo\PruebaDepartamentos\PruebaDepartamentos\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\ProyectosDesarrollo\PruebaDepartamentos\PruebaDepartamentos\bin\roslyn\System.Collections.Immutable.dll
+D:\ProyectosDesarrollo\PruebaDepartamentos\PruebaDepartamentos\bin\roslyn\System.Reflection.Metadata.dll
+D:\ProyectosDesarrollo\PruebaDepartamentos\PruebaDepartamentos\bin\roslyn\vbc.exe
+D:\ProyectosDesarrollo\PruebaDepartamentos\PruebaDepartamentos\bin\roslyn\VBCSCompiler.exe
+D:\ProyectosDesarrollo\PruebaDepartamentos\PruebaDepartamentos\bin\roslyn\VBCSCompiler.exe.config
+D:\ProyectosDesarrollo\PruebaDepartamentos\PruebaDepartamentos\bin\PruebaDepartamentos.dll.config
+D:\ProyectosDesarrollo\PruebaDepartamentos\PruebaDepartamentos\bin\PruebaDepartamentos.dll
+D:\ProyectosDesarrollo\PruebaDepartamentos\PruebaDepartamentos\bin\PruebaDepartamentos.pdb
+D:\ProyectosDesarrollo\PruebaDepartamentos\PruebaDepartamentos\bin\Antlr3.Runtime.dll
+D:\ProyectosDesarrollo\PruebaDepartamentos\PruebaDepartamentos\bin\AspNet.ScriptManager.bootstrap.dll
+D:\ProyectosDesarrollo\PruebaDepartamentos\PruebaDepartamentos\bin\AspNet.ScriptManager.jQuery.dll
+D:\ProyectosDesarrollo\PruebaDepartamentos\PruebaDepartamentos\bin\Microsoft.AI.Agent.Intercept.dll
+D:\ProyectosDesarrollo\PruebaDepartamentos\PruebaDepartamentos\bin\Microsoft.AI.DependencyCollector.dll
+D:\ProyectosDesarrollo\PruebaDepartamentos\PruebaDepartamentos\bin\Microsoft.AI.PerfCounterCollector.dll
+D:\ProyectosDesarrollo\PruebaDepartamentos\PruebaDepartamentos\bin\Microsoft.AI.ServerTelemetryChannel.dll
+D:\ProyectosDesarrollo\PruebaDepartamentos\PruebaDepartamentos\bin\Microsoft.AI.Web.dll
+D:\ProyectosDesarrollo\PruebaDepartamentos\PruebaDepartamentos\bin\Microsoft.AI.WindowsServer.dll
+D:\ProyectosDesarrollo\PruebaDepartamentos\PruebaDepartamentos\bin\Microsoft.ApplicationInsights.dll
+D:\ProyectosDesarrollo\PruebaDepartamentos\PruebaDepartamentos\bin\Microsoft.AspNet.FriendlyUrls.dll
+D:\ProyectosDesarrollo\PruebaDepartamentos\PruebaDepartamentos\bin\Microsoft.AspNet.Web.Optimization.WebForms.dll
+D:\ProyectosDesarrollo\PruebaDepartamentos\PruebaDepartamentos\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\ProyectosDesarrollo\PruebaDepartamentos\PruebaDepartamentos\bin\Microsoft.ScriptManager.MSAjax.dll
+D:\ProyectosDesarrollo\PruebaDepartamentos\PruebaDepartamentos\bin\Microsoft.ScriptManager.WebForms.dll
+D:\ProyectosDesarrollo\PruebaDepartamentos\PruebaDepartamentos\bin\Microsoft.Web.Infrastructure.dll
+D:\ProyectosDesarrollo\PruebaDepartamentos\PruebaDepartamentos\bin\Newtonsoft.Json.dll
+D:\ProyectosDesarrollo\PruebaDepartamentos\PruebaDepartamentos\bin\System.Web.Optimization.dll
+D:\ProyectosDesarrollo\PruebaDepartamentos\PruebaDepartamentos\bin\WebGrease.dll
+D:\ProyectosDesarrollo\PruebaDepartamentos\PruebaDepartamentos\bin\Microsoft.AI.DependencyCollector.xml
+D:\ProyectosDesarrollo\PruebaDepartamentos\PruebaDepartamentos\bin\Microsoft.AI.ServerTelemetryChannel.xml
+D:\ProyectosDesarrollo\PruebaDepartamentos\PruebaDepartamentos\bin\Microsoft.AI.Web.xml
+D:\ProyectosDesarrollo\PruebaDepartamentos\PruebaDepartamentos\bin\Microsoft.AI.WindowsServer.xml
+D:\ProyectosDesarrollo\PruebaDepartamentos\PruebaDepartamentos\bin\Microsoft.ApplicationInsights.xml
+D:\ProyectosDesarrollo\PruebaDepartamentos\PruebaDepartamentos\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\ProyectosDesarrollo\PruebaDepartamentos\PruebaDepartamentos\bin\System.Web.Optimization.xml
+D:\ProyectosDesarrollo\PruebaDepartamentos\PruebaDepartamentos\bin\Antlr3.Runtime.pdb
+D:\ProyectosDesarrollo\PruebaDepartamentos\PruebaDepartamentos\bin\Newtonsoft.Json.xml
+D:\ProyectosDesarrollo\PruebaDepartamentos\PruebaDepartamentos\bin\Microsoft.AspNet.FriendlyUrls.xml
+D:\ProyectosDesarrollo\PruebaDepartamentos\PruebaDepartamentos\obj\Debug\PruebaDepartamentos.dll
+D:\ProyectosDesarrollo\PruebaDepartamentos\PruebaDepartamentos\obj\Debug\PruebaDepartamentos.pdb
+D:\PRUEBA BIXTEC\PRUEBA BIXTEC\PruebaDepartamentos\PruebaDepartamentos\bin\ApplicationInsights.config
+D:\PRUEBA BIXTEC\PRUEBA BIXTEC\PruebaDepartamentos\PruebaDepartamentos\bin\roslyn\csc.exe
+D:\PRUEBA BIXTEC\PRUEBA BIXTEC\PruebaDepartamentos\PruebaDepartamentos\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\PRUEBA BIXTEC\PRUEBA BIXTEC\PruebaDepartamentos\PruebaDepartamentos\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\PRUEBA BIXTEC\PRUEBA BIXTEC\PruebaDepartamentos\PruebaDepartamentos\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\PRUEBA BIXTEC\PRUEBA BIXTEC\PruebaDepartamentos\PruebaDepartamentos\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\PRUEBA BIXTEC\PRUEBA BIXTEC\PruebaDepartamentos\PruebaDepartamentos\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\PRUEBA BIXTEC\PRUEBA BIXTEC\PruebaDepartamentos\PruebaDepartamentos\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\PRUEBA BIXTEC\PRUEBA BIXTEC\PruebaDepartamentos\PruebaDepartamentos\bin\roslyn\System.Collections.Immutable.dll
+D:\PRUEBA BIXTEC\PRUEBA BIXTEC\PruebaDepartamentos\PruebaDepartamentos\bin\roslyn\System.Reflection.Metadata.dll
+D:\PRUEBA BIXTEC\PRUEBA BIXTEC\PruebaDepartamentos\PruebaDepartamentos\bin\roslyn\vbc.exe
+D:\PRUEBA BIXTEC\PRUEBA BIXTEC\PruebaDepartamentos\PruebaDepartamentos\bin\roslyn\VBCSCompiler.exe
+D:\PRUEBA BIXTEC\PRUEBA BIXTEC\PruebaDepartamentos\PruebaDepartamentos\bin\roslyn\VBCSCompiler.exe.config
+D:\PRUEBA BIXTEC\PRUEBA BIXTEC\PruebaDepartamentos\PruebaDepartamentos\bin\PruebaDepartamentos.dll.config
+D:\PRUEBA BIXTEC\PRUEBA BIXTEC\PruebaDepartamentos\PruebaDepartamentos\bin\PruebaDepartamentos.dll
+D:\PRUEBA BIXTEC\PRUEBA BIXTEC\PruebaDepartamentos\PruebaDepartamentos\bin\PruebaDepartamentos.pdb
+D:\PRUEBA BIXTEC\PRUEBA BIXTEC\PruebaDepartamentos\PruebaDepartamentos\bin\Antlr3.Runtime.dll
+D:\PRUEBA BIXTEC\PRUEBA BIXTEC\PruebaDepartamentos\PruebaDepartamentos\bin\AspNet.ScriptManager.bootstrap.dll
+D:\PRUEBA BIXTEC\PRUEBA BIXTEC\PruebaDepartamentos\PruebaDepartamentos\bin\AspNet.ScriptManager.jQuery.dll
+D:\PRUEBA BIXTEC\PRUEBA BIXTEC\PruebaDepartamentos\PruebaDepartamentos\bin\Microsoft.AI.Agent.Intercept.dll
+D:\PRUEBA BIXTEC\PRUEBA BIXTEC\PruebaDepartamentos\PruebaDepartamentos\bin\Microsoft.AI.DependencyCollector.dll
+D:\PRUEBA BIXTEC\PRUEBA BIXTEC\PruebaDepartamentos\PruebaDepartamentos\bin\Microsoft.AI.PerfCounterCollector.dll
+D:\PRUEBA BIXTEC\PRUEBA BIXTEC\PruebaDepartamentos\PruebaDepartamentos\bin\Microsoft.AI.ServerTelemetryChannel.dll
+D:\PRUEBA BIXTEC\PRUEBA BIXTEC\PruebaDepartamentos\PruebaDepartamentos\bin\Microsoft.AI.Web.dll
+D:\PRUEBA BIXTEC\PRUEBA BIXTEC\PruebaDepartamentos\PruebaDepartamentos\bin\Microsoft.AI.WindowsServer.dll
+D:\PRUEBA BIXTEC\PRUEBA BIXTEC\PruebaDepartamentos\PruebaDepartamentos\bin\Microsoft.ApplicationInsights.dll
+D:\PRUEBA BIXTEC\PRUEBA BIXTEC\PruebaDepartamentos\PruebaDepartamentos\bin\Microsoft.AspNet.FriendlyUrls.dll
+D:\PRUEBA BIXTEC\PRUEBA BIXTEC\PruebaDepartamentos\PruebaDepartamentos\bin\Microsoft.AspNet.Web.Optimization.WebForms.dll
+D:\PRUEBA BIXTEC\PRUEBA BIXTEC\PruebaDepartamentos\PruebaDepartamentos\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\PRUEBA BIXTEC\PRUEBA BIXTEC\PruebaDepartamentos\PruebaDepartamentos\bin\Microsoft.ScriptManager.MSAjax.dll
+D:\PRUEBA BIXTEC\PRUEBA BIXTEC\PruebaDepartamentos\PruebaDepartamentos\bin\Microsoft.ScriptManager.WebForms.dll
+D:\PRUEBA BIXTEC\PRUEBA BIXTEC\PruebaDepartamentos\PruebaDepartamentos\bin\Microsoft.Web.Infrastructure.dll
+D:\PRUEBA BIXTEC\PRUEBA BIXTEC\PruebaDepartamentos\PruebaDepartamentos\bin\Newtonsoft.Json.dll
+D:\PRUEBA BIXTEC\PRUEBA BIXTEC\PruebaDepartamentos\PruebaDepartamentos\bin\System.Web.Optimization.dll
+D:\PRUEBA BIXTEC\PRUEBA BIXTEC\PruebaDepartamentos\PruebaDepartamentos\bin\WebGrease.dll
+D:\PRUEBA BIXTEC\PRUEBA BIXTEC\PruebaDepartamentos\PruebaDepartamentos\bin\Microsoft.AI.DependencyCollector.xml
+D:\PRUEBA BIXTEC\PRUEBA BIXTEC\PruebaDepartamentos\PruebaDepartamentos\bin\Microsoft.AI.ServerTelemetryChannel.xml
+D:\PRUEBA BIXTEC\PRUEBA BIXTEC\PruebaDepartamentos\PruebaDepartamentos\bin\Microsoft.AI.Web.xml
+D:\PRUEBA BIXTEC\PRUEBA BIXTEC\PruebaDepartamentos\PruebaDepartamentos\bin\Microsoft.AI.WindowsServer.xml
+D:\PRUEBA BIXTEC\PRUEBA BIXTEC\PruebaDepartamentos\PruebaDepartamentos\bin\Microsoft.ApplicationInsights.xml
+D:\PRUEBA BIXTEC\PRUEBA BIXTEC\PruebaDepartamentos\PruebaDepartamentos\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\PRUEBA BIXTEC\PRUEBA BIXTEC\PruebaDepartamentos\PruebaDepartamentos\bin\System.Web.Optimization.xml
+D:\PRUEBA BIXTEC\PRUEBA BIXTEC\PruebaDepartamentos\PruebaDepartamentos\bin\Antlr3.Runtime.pdb
+D:\PRUEBA BIXTEC\PRUEBA BIXTEC\PruebaDepartamentos\PruebaDepartamentos\bin\Newtonsoft.Json.xml
+D:\PRUEBA BIXTEC\PRUEBA BIXTEC\PruebaDepartamentos\PruebaDepartamentos\bin\Microsoft.AspNet.FriendlyUrls.xml
+D:\PRUEBA BIXTEC\PRUEBA BIXTEC\PruebaDepartamentos\PruebaDepartamentos\obj\Debug\PruebaDepartamentos.csproj.CoreCompileInputs.cache
+D:\PRUEBA BIXTEC\PRUEBA BIXTEC\PruebaDepartamentos\PruebaDepartamentos\obj\Debug\PruebaDepartamentos.csproj.CopyComplete
+D:\PRUEBA BIXTEC\PRUEBA BIXTEC\PruebaDepartamentos\PruebaDepartamentos\obj\Debug\PruebaDepartamentos.dll
+D:\PRUEBA BIXTEC\PRUEBA BIXTEC\PruebaDepartamentos\PruebaDepartamentos\obj\Debug\PruebaDepartamentos.pdb
+D:\PRUEBA BIXTEC\PRUEBA BIXTEC\PruebaDepartamentos\PruebaDepartamentos\bin\Entidades.dll
+D:\PRUEBA BIXTEC\PRUEBA BIXTEC\PruebaDepartamentos\PruebaDepartamentos\bin\Entidades.pdb
+D:\PRUEBA BIXTEC\PRUEBA BIXTEC\PruebaDepartamentos\PruebaDepartamentos\bin\AjaxControlToolkit.dll
